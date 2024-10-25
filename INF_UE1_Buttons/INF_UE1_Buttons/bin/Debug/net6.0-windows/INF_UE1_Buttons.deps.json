@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "INF_UE1_Buttons/1.0.0": {
+        "runtime": {
+          "INF_UE1_Buttons.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INF_UE1_Buttons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

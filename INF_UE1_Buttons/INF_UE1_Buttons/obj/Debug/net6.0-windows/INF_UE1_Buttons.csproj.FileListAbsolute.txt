@@ -1,0 +1,17 @@
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\bin\Debug\net6.0-windows\INF_UE1_Buttons.exe
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\bin\Debug\net6.0-windows\INF_UE1_Buttons.deps.json
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\bin\Debug\net6.0-windows\INF_UE1_Buttons.runtimeconfig.json
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\bin\Debug\net6.0-windows\INF_UE1_Buttons.dll
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\bin\Debug\net6.0-windows\INF_UE1_Buttons.pdb
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\obj\Debug\net6.0-windows\INF_UE1_Buttons.csproj.AssemblyReference.cache
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\obj\Debug\net6.0-windows\INF_UE1_Buttons.Form1.resources
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\obj\Debug\net6.0-windows\INF_UE1_Buttons.csproj.GenerateResource.cache
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\obj\Debug\net6.0-windows\INF_UE1_Buttons.GeneratedMSBuildEditorConfig.editorconfig
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\obj\Debug\net6.0-windows\INF_UE1_Buttons.AssemblyInfoInputs.cache
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\obj\Debug\net6.0-windows\INF_UE1_Buttons.AssemblyInfo.cs
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\obj\Debug\net6.0-windows\INF_UE1_Buttons.csproj.CoreCompileInputs.cache
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\obj\Debug\net6.0-windows\INF_UE1_Buttons.dll
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\obj\Debug\net6.0-windows\refint\INF_UE1_Buttons.dll
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\obj\Debug\net6.0-windows\INF_UE1_Buttons.pdb
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\obj\Debug\net6.0-windows\INF_UE1_Buttons.genruntimeconfig.cache
+Z:\INF\INF_UE1_Buttons\INF_UE1_Buttons\obj\Debug\net6.0-windows\ref\INF_UE1_Buttons.dll
